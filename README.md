@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 - 🎓 Recent graduate in Bachelor of Computer Applications.
 - 📄 Resume : (link-to-resume).
-- 🌐 Portfolio Website : (https://your-portfolio-website.com)
+- 🌐 Portfolio Website : https://mounika16264.github.io/Portfolio.github.io
 - 📧 Email: mounika16264@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/mounika-n16
 
